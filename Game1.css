@@ -5,13 +5,16 @@
 
 
   }
+
+  html {
+    background-image: url("./IMAGES/backGround4.jpg.png");
+  }
   
   body {
     display: flex;
     align-items: center;
-    background: rgb(43 4 115 / 79%);
     flex-direction: column;
-    background-image: url("./IMAGES/backGround4.jpg.png");
+    /* background-image: url("./IMAGES/backGround4.jpg.png"); */
   }
 
   .container {
