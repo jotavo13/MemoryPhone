@@ -105,7 +105,7 @@ function checkWin() {
   });
 
   if (isWon) {
-    alert('Feliz compleaños!! que todo te salio bien en ese dia y el resto de estos dias.  Y que te guste el mini regalo de chocolates, que no te puede entregar tu verdadero regalo por ahora.');
+    alert(` 🎂💐🎂 Feliz compleaños 🎂💐🎂	!! que todo te salio bien en ese dia y el resto de estos dias.  Y que te guste el mini regalo de chocolates, que no te pude entregar tu verdadero regalo por ahora.`);
   }
 }
 
