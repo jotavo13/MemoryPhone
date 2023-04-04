@@ -105,7 +105,7 @@ function checkWin() {
   });
 
   if (isWon) {
-    alert('Congratulations! You have won the game!');
+    alert('Feliz compleaños!! que todo te salio bien y que te guste el mini regalo de chocolates. ');
   }
 }
 
