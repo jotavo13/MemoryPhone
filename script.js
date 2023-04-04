@@ -105,7 +105,7 @@ function checkWin() {
   });
 
   if (isWon) {
-    alert('Feliz compleaños!! que todo te salio bien y que te guste el mini regalo de chocolates. ');
+    alert('Feliz compleaños!! que todo te salio bien en ese dia y el resto de estos dias.  Y que te guste el mini regalo de chocolates por ahora ');
   }
 }
 
